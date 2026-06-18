@@ -5,6 +5,6 @@ deployment:
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
     - /bin/cp script.js $DEPLOYPATH
-    - /bin/cp -R img $DEPLOYPATH
+    - /bin/cp -R img/ $DEPLOYPATH
     - /bin/cp responsive.css $DEPLOYPATH
     - /bin/cp globals.css $DEPLOYPATH
