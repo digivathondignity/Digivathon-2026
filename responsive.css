@@ -815,13 +815,17 @@
     color: rgba(255, 255, 255, 0.8);
   }
 
-  .text-wrapper-67 {
+  .macbook-air .text-wrapper-67 {
     font-size: 32px;
     font-weight: 700;
     line-height: 32px;
-    color: rgba(33, 95, 116, 1);
     margin-top: 20px;
     text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+     background: conic-gradient(
+    from 70deg at 51% 50%,
+    rgb(0, 145, 171) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
   }
 
   /* ===== TIMELINE SECTION ===== */
